@@ -414,9 +414,9 @@ elif page == "Files":
 # 👨‍💻 **AUTHOR**
 
 **Himanshu Kumar**
-*💼 AI & Data Science Learner
-*🔗 LinkedIn: (https://www.linkedin.com/in/himanshu231204/)
-*⭐ GitHub: (https://github.com/himanshu231204)
+*  💼 AI & Data Science Learner
+*  🔗 LinkedIn: (https://www.linkedin.com/in/himanshu231204/)
+*  ⭐ GitHub: (https://github.com/himanshu231204)
 
 ---
 
