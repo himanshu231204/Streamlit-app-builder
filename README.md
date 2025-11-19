@@ -20,7 +20,10 @@ Loaded with UI components, database integrations, authentication, AI tools, dash
 </p>
 
 ---
+<video src="Streamlit_App_Builder_Video_Generation.mp4" width="700" controls>
+</video>
 
+---
 # 📚 **TABLE OF CONTENTS**
 
 * ⚙ Setup
